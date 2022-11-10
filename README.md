@@ -16,3 +16,4 @@ This page also has button that takes you back to the "Home page". It also has fi
 
 ### Summary
 
+There are several options to filter the devices by to view their data. By doing this you can then monitor the acpects you want to by simply filtering the devices to your needs. 
